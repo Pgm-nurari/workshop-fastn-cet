@@ -9,8 +9,8 @@
 ;; Also, you can give the `site-name` of your site as header property
 
 ;; ========================= REMOVE THE COMMENT BELOW ==========================
--- ds.page: Page Title
-site-name: My Site
+-- ds.page: Fastn-workshop
+site-name: Test Site
 ;; ================================= END =======================================
 
 -- quote.background-image: Lucius Annaeus Seneca
